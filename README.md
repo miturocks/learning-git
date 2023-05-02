@@ -1,3 +1,3 @@
 # learning-git
 
-This is a repo forlearning git and github
+This is a repo for learning git and github
